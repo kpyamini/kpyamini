@@ -1,4 +1,4 @@
-## Hi, I'm Yamini Krishnaprakash 👋
+## Hi, I'm Yamini 👋
 
 CS Engineer · Mainframe → Microservices → AI
 
